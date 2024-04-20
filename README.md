@@ -1,5 +1,7 @@
 Eahsasoft Termanal V1.2.
 
+(THIS FILE IS NOT WORKING)
+
 How to install:
 
 HOW TO INSTALL VIDEO HERE: 
